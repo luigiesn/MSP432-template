@@ -6,7 +6,6 @@ A template for projects that uses MSP432 as target
 * [ARM GCC](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads) and [DSLite (part of MSP432Ware)](http://www.ti.com/tool/MSP432Ware) must be downloaded.
 
 ## How to use
-
 * Define device name, compiler and DSLite paths in the `Makefile`
 
 * Execute:\
@@ -23,7 +22,7 @@ A template for projects that uses MSP432 as target
 `/code/src/system_msp432p401m_gcc.cx`\
 and add the `x` to extensions of `r` terminated file names.
 
-##Compatibility
+## Compatibility
 
 * MCU\
 `MSP432P401M`\
