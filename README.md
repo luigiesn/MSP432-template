@@ -1,7 +1,7 @@
 MSP432 Template
 ===============
 
-A project template for MSP432P401M and MSP432P401R
+A template for projects that uses MSP432 as target
 
 * [ARM GCC](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads) and [DSLite (part of MSP432Ware)](http://www.ti.com/tool/MSP432Ware) must be downloaded.
 
