@@ -32,9 +32,6 @@ and add the `x` to extensions of `r` terminated file names.
 * Compiles all source files inside de `code` directory.
 * Compiles most recently modified files first, to hopefully find problems earlier.
 * Automatically generates dependecies as files are compiled, ensuring that files are correctly recompiled when dependecies have updated.
-* Includes configurations for normal (release) build and debug build suitable for GDB debugging.
-* Times the compilation of each file and the entire build.
-* By default, builds in a "quiet" mode that only lists the actions being performed. By passing V=true to make, you can compile in verbose mode to see the full compiler commands being issued.
 
 ## Limitations
 * Assumes GNU make.
